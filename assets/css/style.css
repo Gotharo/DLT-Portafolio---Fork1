@@ -12,11 +12,11 @@ a {
 }
 
 body {
-    background-color: #10002B;
+    background-color: #0f0f0f;
 }
 
 .navbar-principal {
-    background-color: rgba(60,9,108,0.20);
+    background-color: rgba(27, 20, 32, 0.2);
     padding-left: 271px;
     padding-right: 271px;
     backdrop-filter: blur(2px);
@@ -34,7 +34,7 @@ body {
 }
 
 .nav-logo_nombre {
-    color: #E0AAFF;
+    color: #969696;
     display: flex;
     justify-content: center;
     font-size: 1.2em;
@@ -42,21 +42,21 @@ body {
 }
 
 .navbar_link {
-    color: #E0AAFF;
+    color: #bbbbbb;
     font-size: 1.2em;
 }
 
 .navbar_link:hover {
-    color: #7B2CBF;
+    color: #979797;
 }
 
 .navbar_link:active {
-    color: #7B2CBF;
+    color: #504957;
 }
 
 
 .hero_principal {
-    background-color: rgba(36, 0, 70, 0.40);
+    background-color: rgba(51, 41, 56, 0.4);
     /* height: 620px; */
     /* width: 100%; */
     display: flex;
